@@ -1,3 +1,7 @@
+// fn main() {
+//   print!("hello world!")
+// }
+
 fn main() {
-  print!("hello world!")
+  println!("Welcome to the playground! You can modify the code in here.");
 }
